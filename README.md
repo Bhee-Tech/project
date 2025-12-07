@@ -26,10 +26,14 @@ Measure average sales per rep.
 Identify best performing region-rep pairs.
 
 
-# Excel Sheet link
+## Excel Sheet link
 
 https://docs.google.com/spreadsheets/d/1-xBIAY_A6BMDqXJ9d5TpmN0vSbbuUAsS/edit?usp=sharing&ouid=108312096925450129300&rtpof=true&sd=true
 
-# Tableau link
+## Tableau link
 https://public.tableau.com/views/SalesAnalysiss_17567413237440/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+## Dashboard picture
+
+![sales](https://github.com/user-attachments/assets/e09e2cb8-8f69-42d2-b83f-0e04ca5d5109)
 
